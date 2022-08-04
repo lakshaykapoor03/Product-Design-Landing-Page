@@ -1,0 +1,241 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+
+body{
+    background-color: rgb(0, 0, 0);
+    font-family: 'Poppins';
+    margin: 0;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  
+   
+}
+
+.nav-item{
+    margin-right: 50px;
+color: #fff;
+font-size: 15px;
+
+
+}
+
+h3{
+    color:#c91b28;
+}
+
+h1{
+    color: #fff;
+    font-size: 50px;
+}
+
+.description{
+    color: #fff;
+}
+
+.arthur-intro{
+    margin-top: 60px;
+}
+
+.man-img{
+    position: relative;
+    left: 30%;
+}
+
+.me-btn{
+color: #fff;
+background-color:#c91b28;
+border: none;
+width:120px;
+height: 30px;
+}
+
+.big-container{
+width: 750px;
+height: 800px;
+position: absolute;
+background-color:#181818;
+z-index: -1;
+}
+
+
+.upper-header{
+    background-color: #000;
+    padding-top: 20px;
+}
+
+.intro-part{
+    display:grid;
+    grid-template-columns: auto auto;;
+}
+
+.cards{
+    width: 800px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 100px;
+   
+}
+
+.card-active{
+    width: 250px;
+    height:200px;
+    background-color: #1e1e1e;
+    padding-top: 40px;
+}
+
+.card-2{
+    background-color:#c91b28;
+    color:#fff;
+}
+
+
+.card-head-active{
+    color:#c91b28;
+    font-size: 25px;
+    line-height: 3px;
+    text-align: center;
+
+}
+
+.product{
+   color: #fff;
+
+}
+
+.card-body{
+color: #fff;
+font-size: 15px;
+text-align: center;
+
+}
+
+
+.cards-4{
+    display:grid;
+    grid-template-columns: auto auto;
+    width: 600px;
+}
+
+.know-btn{
+color: #c91b28;
+}
+
+.know-btn2{
+    color:#ffffff;
+}
+
+.card-experience{
+    width:270px;
+    height:100px;
+    background-color: #1e1e1e;
+    margin-top: 30px;
+}
+
+.achievements{
+    display: grid;
+    grid-template-columns: auto auto;
+   margin-top: 80px;
+}
+
+.projects{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+   
+}
+
+
+.exp{
+color: #c91b28;
+font-size: 60px;
+margin-left: 60%;
+line-height: 3px;
+}
+
+.years{
+    color: #fff;
+    margin-left: 56%;
+}
+
+
+.project-text{
+    color: #fff;
+    font-size: 10px;
+}
+
+.view-btn{
+    color: #ffffff;
+    background-color:#c91b28;
+    border: none;
+    width:100px;
+    height: 30px;
+    position: relative;
+    top:50%;
+    right: 250%;
+}
+
+.img-4{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.img-projects{
+    width: 380px;
+    height: 240px;
+    background-color:#1e1e1e;
+    margin-top: 50px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.project-name{
+    color: #fff;
+}
+
+.project-onethree{
+    margin-left: 50%;
+}
+
+.project-link{
+color: #c91b28;
+text-decoration: none;
+}
+
+.work-projects{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+    width:1200px;
+    height: 300px;
+    background-color:#1e1e1e;
+    margin-left: 20%;
+}
+
+.list{
+    display:flex;
+    justify-content: center;
+  width:1500px;
+    list-style-type: none;
+    color: #fff;
+    margin-top: 80px;
+}
+
+.list-items{
+    margin-right: 50px;
+}
+
+.footer-section{
+    padding-top: 60px;
+    background-color: #1e1e1e;
+}
+
+.contact-btn{
+    margin-left: 200%;
+}
+
+
