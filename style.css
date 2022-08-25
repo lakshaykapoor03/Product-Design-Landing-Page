@@ -242,5 +242,133 @@ h1 {
   margin-left: 15%;
 }
 
+@media screen and (max-width: 768px) {
+  
+
+  
+.nav-item {
+  margin-right: 20px;
+  font-size: 10px;
+}
+
+.intro-part {
+  display: flex;
+  flex-direction: column;
+ 
+
+}
+
+.arthur-intro{
+  width: 400px;
+  margin-left: 100px;
+}
+
+.man-img{
+  position: relative;
+  left: 8%;
+}
 
 
+.cards {
+ 
+  display: grid;
+  grid-template-columns: auto;
+  gap: 50px;
+  text-align: center;
+  margin-left: 120px;
+  margin-top: 100px;
+}
+
+
+.big-container {
+  margin-top: 50px;
+  width: 750px;
+  height: 900px;
+  position: absolute;
+  background-color: #181818;
+  z-index: -1;
+}
+
+
+.cards-4 {
+  display: grid;
+  grid-template-columns: auto ;
+  margin-left: 50px;
+  margin-top:100px;
+}
+
+.exp,.years{
+position: relative;
+left: 200%;
+}
+
+
+
+.projects {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 150px;
+  margin-left: 160px;
+}
+
+.img-4 {
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+}
+
+
+.project-onethree {
+  margin-left: 0%;
+}
+
+
+.work-projects {
+ 
+  margin-top: 80px;
+  width: 400px;
+  height: 300px;
+  background-color: #1e1e1e;
+  margin-left: 10%;
+}
+
+.work-heading{
+  font-size: 35px;
+}
+
+
+
+.view-btn {
+  
+  position: relative;
+  top: 780%;
+  right: 200%;
+}
+
+
+.contact-btn {
+  position: relative;
+  top: 50%;
+  
+}
+
+
+.list {
+  
+  width: 320px;
+  list-style-type: none;
+  color: #fff;
+  margin-top: 80px;
+  
+}
+
+
+
+.footer-right-logo{
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  margin-left: 35%;
+}
+
+}
