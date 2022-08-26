@@ -4,7 +4,7 @@
 
 ### This project is showing a web page of a UI designer's portfolio and is made using HTML and CSS.
 ### Learnings
-I learned about the grid property of CSS in which I learned about grid template rows and columns as well as grid-auto property of CSS.
+I learned about the grid property of CSS in which I learned about grid template rows and columns as well as what auto property does of CSS.
 
 ### Time taken
 13-14 hours(approx).
